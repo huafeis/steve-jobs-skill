@@ -2,6 +2,12 @@
 
 # 乔布斯.skill
 
+<p align="center">
+  <img src="assets/hero.gif" alt="steve-jobs-skill Hero Animation" />
+  <br/>
+  <sub>动画由 <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill 制作</sub>
+</p>
+
 > *"Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
